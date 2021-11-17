@@ -1,4 +1,5 @@
 x=4
 y=3
-result=x+y
+z=10
+result=x+y+z
 priint(result)
